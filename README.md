@@ -20,7 +20,7 @@ All outputs can be copied to clipboard or downloaded as a `.txt` file.
 
 ---
 
-## Demo
+## High Level
 
 > Paste or upload code → auto-detect language → pick a mode → get instant details
 
