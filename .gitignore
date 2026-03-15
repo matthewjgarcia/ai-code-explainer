@@ -1,0 +1,10 @@
+CLAUDE.md
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
